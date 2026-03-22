@@ -1,7 +1,5 @@
 // Find prime numbers using multithreading (Thread, Runnable, Executor Framework)
 
-// Problem1.java
-
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
