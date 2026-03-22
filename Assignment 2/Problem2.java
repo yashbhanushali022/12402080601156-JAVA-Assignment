@@ -1,7 +1,5 @@
 // Producer–Consumer problem using synchronization and inter-thread communication 
 
-// Problem2.java
-
 // Shared Buffer Class
 class Buffer {
     private int data;
